@@ -26,3 +26,21 @@ This project is designed to provide a modern and user-friendly interface for a c
 - JavaScript
 - CSS
 
+## 📁 Proje Yapısı
+
+```text
+CoffeeShop/
+│
+├── node_modules/
+│
+├── src/
+│   └── components/
+│       ├── App.jsx
+│       ├── firebase.js
+│       ├── main.jsx
+│       └── style.css
+│
+├── index.html
+├── package.json
+└── package-lock.json
+```
